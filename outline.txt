@@ -1,0 +1,23 @@
+1.Basic Linear static 2D membrane analysis
+		Simple geometry input
+		Materials
+		Point restrains
+		Point Load
+		Solve
+		Show deformation
+		
+2.Add SIMP method to it
+		strain history graph
+		animate history
+
+3.Extend to linear static 3D analysis
+		Bending formulation
+		
+4.Increase restraints and loading
+		line
+		surface
+
+5.Stress results
+		components and VM
+		
+6.Maybe extend to dynamics?
